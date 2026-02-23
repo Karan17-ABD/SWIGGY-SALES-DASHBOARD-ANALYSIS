@@ -61,7 +61,7 @@ Performance: Peak months, high-performing quarters
 - Detected daily and weekly ordering patterns  
 - Linked rating trends with sales performance  
 
-📌 Business Recommendations
+📌 Business Recommendations    
 - Run targeted campaigns in high-performing cities during peak periods  
 - Launch promotions during low-demand months  
 - Optimize pricing based on AOV trends  
@@ -71,9 +71,7 @@ Performance: Peak months, high-performing quarters
 ✅ Outcome
 Delivered an interactive Excel dashboard enabling KPI tracking, trend analysis, and regional performance monitoring to support data-driven business decisions.
 
-📸 Dashboard Preview
-_Add screenshots of your Excel dashboard here._
-
 📬 Contact
 Created by Karan Bharadwaj B    
 Email: karanbhaeadwaj17@gmail.com
+<img width="716" height="415" alt="SWIGGY DASHBOARD" src="https://github.com/user-attachments/assets/20c3d8d8-6d3a-4dac-a0d9-24d31a873c48" />
